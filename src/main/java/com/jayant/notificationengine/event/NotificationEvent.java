@@ -1,4 +1,3 @@
-
 package com.jayant.notificationengine.event;
 
 import java.time.Instant;
